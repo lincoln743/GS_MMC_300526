@@ -1,0 +1,6 @@
+det_A=1.4400
+alpha=2.8422
+beta=0.1167
+area_total_px=48400
+area_perda_px=6448
+pct_perda=13.32
